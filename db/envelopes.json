@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "budget": 1000,
+        "title": "Rent"
+    },
+    {
+        "id": 2,
+        "budget": 500,
+        "title": "Shopping"
+    }
+]
